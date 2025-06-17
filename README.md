@@ -1,6 +1,37 @@
 ### Alô, Guinter Zaffalon aqui! 👋
 
-- 📚 Estudando Flutter e um pouco de Swift nas horas vagas!
-- 👊 Colaborando com tudo que está ao meu alcance!
-- 📫 Como me contatar? guinterzafa@gmail.com, no guinter.dev ou Guinter Zaffalon no LinkedIn!
-- 🥋 Fun fact: Faixa preta no Taekwondo!
+<div>
+  <p>Desenvolvedor Mobile e Web, obcecado por aprender a tirar ideias do papel.</p>
+  <p>Construindo em público e sempre que possível apoiando a comunidade, ciclista de estrada, faixa preta e alguns ótimos feitos no Taekwondo!</p>
+</div>
+
+##
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=GuinterZaffalon&show_icons=true&theme=dracula&hide=stars,issues&count_private=true"/>
+</div>
+
+
+<div>
+  <h3>Go to techs</h3>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/guinter-zaffalon-857131241">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/zaffalonguinter/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:guinterzafa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
