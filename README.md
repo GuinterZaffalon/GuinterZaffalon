@@ -8,11 +8,6 @@
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuinterZaffalon&show_icons=true&theme=dracula&hide=stars,issues&count_private=true"/>
-</div>
-
-
-<div>
   <h3>Go to techs</h3>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
