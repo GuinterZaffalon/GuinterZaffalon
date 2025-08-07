@@ -1,4 +1,12 @@
-### Alô, Guinter Zaffalon aqui! 👋
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Olá, meu nome é <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Guinter" alt="Typing SVG" />
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <div>
   <p>Desenvolvedor Mobile e Web, obcecado por aprender a tirar ideias do papel.</p>
